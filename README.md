@@ -7,7 +7,7 @@ she/her • [link tree](saltytine.github.io/1/) • working at canonical and mal
 
 at **canonical** — fixing security and functionality bugs in charmed kubernetes, feast, LXD, etc  
 at **malectrica** — security research, tooling, website development, and also hr  
-i have some [notes and guides](https://github.com/saltytine/notes-and-guides) as well as most of my configs ([ubuntu configs](https://github.com/saltytine/Ubuntu-Configs) and [nvim](https://github.com/saltytine/nvim/))  
+i have some [notes and guides](https://github.com/saltytine/notes-and-guides) as well as most of my configs ([ubuntu configs](https://github.com/saltytine/Ubuntu-Configs) and [nvim](https://github.com/saltytine/nvim/) which is on its own cause it has a lot going on)  
 
 i also do low level development, see:  
 [tivOS](https://github.com/saltytine/tivOS)  
