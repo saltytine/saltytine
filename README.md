@@ -23,12 +23,4 @@ and random extra stuff, see:
 
 ## languages
 
-rust  
-c  
-cpp (kinda)  
-bash  
-python  
-js/ts  
-odin  
-php  
-cow
+rust, c, cpp (kinda), bash, python, java, js/ts, odin, php, cow
