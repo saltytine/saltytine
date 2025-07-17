@@ -25,3 +25,11 @@ and random extra stuff, see:
 ## languages
 
 rust, c, cpp (kinda), bash, python, java, js/ts, odin, php, cow
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saltytine&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saltytine&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
