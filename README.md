@@ -8,23 +8,26 @@ she/her • [link tree](saltytine.github.io/1/) • working at canonical and mal
 at **canonical** — fixing security and functionality bugs in charmed kubernetes, feast, LXD, etc  
 at **malectrica** — security research, tooling, website development, and also hr  
   
-i have some [notes and guides](https://github.com/saltytine/notes-and-guides) as well as most of my configs ([ubuntu configs](https://github.com/saltytine/Ubuntu-Configs) and [nvim](https://github.com/saltytine/nvim/), which is on its own cause it has a lot going on)  
+i have some [notes and guides](https://github.com/saltytine/notes-and-guides) as well as most of my configs scattered about. i have this untested bash script which should load my ubuntu config on a fresh ubuntu install ([ubuntu configs](https://github.com/saltytine/MyUbuntu) and my [vim](https://github.com/saltytine/vim/) config, which is the most important one  
   
 i also do low level development, see:  
-[tivOS](https://github.com/saltytine/tivOS)  
-[hypervisor](https://github.com/saltytine/hypervisor)  
-[aarch64-cpu](https://github.com/saltytine/aarch64-cpu)  
-[SaltOS](https://github.com/saltytine/SaltOS) (not relevant anymore)  
+[tivOS](https://github.com/saltytine/tivOS) my operating system written in C with the goal of having a simple and readable codebase  
+[hypervisor](https://github.com/saltytine/hypervisor) my hypervisor for demonstrating low level rust development ability  
+[aarch64-cpu](https://github.com/saltytine/aarch64-cpu) library for my hypervisor  
+[SaltOS](https://github.com/saltytine/SaltOS) old os that i made, more written in asm and way worse (not relevant anymore)  
   
 and random extra stuff, see:  
-[qtl](https://github.com/saltytine/qtl)  
-[modern-art](https://github.com/saltytine/modern-art)  
-[ggldrive](https://github.com/saltytine/ggldrive)  
-[sf](https://github.com/saltytine/sf) and [csnap](https://github.com/saltytine/csnap)
+[qtl](https://github.com/saltytine/qtl) a small quantitatively typed language in active development  
+[modern-art](https://github.com/saltytine/modern-art) an implementation of the modern art board game in odin  
+[ggldrive](https://github.com/saltytine/ggldrive) a cli google drive tool (broken as of now)  
+[strudel](https://github.com/saltytine/strudel) me playing around with the strudel editor, making some music  
+[relativity](https://github.com/saltytine/relativity) a poorly implemented physics "engine" designed to calculate the behavior of particles in relativity (and older rulesets)  
+[BQN](https://github.com/saltytine/BQN) a silly language with a silly syntax, for the sake of programming on alien hardware
+[sf](https://github.com/saltytine/sf) and [csnap](https://github.com/saltytine/csnap) fun little tools that i rarely use
 
 ## languages
 
-rust, c, cpp (kinda), bash, python, java, js/ts, odin, php, cow
+rust, c, cpp (kinda), bash, python, java, js/ts, odin, php, cow, qtl, bqn
 
 ## stats (the B- is undeserved)
 <div align="center">
