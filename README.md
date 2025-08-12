@@ -22,7 +22,7 @@ and random extra stuff, see:
 [ggldrive](https://github.com/saltytine/ggldrive) a cli google drive tool (broken as of now)  
 [strudel](https://github.com/saltytine/strudel) me playing around with the strudel editor, making some music  
 [relativity](https://github.com/saltytine/relativity) a poorly implemented physics "engine" designed to calculate the behavior of particles in relativity (and older rulesets)  
-[BQN](https://github.com/saltytine/BQN) a silly language with a silly syntax, for the sake of programming on alien hardware
+[BQN](https://github.com/saltytine/BQN) a silly language with a silly syntax, for the sake of programming on alien hardware  
 [sf](https://github.com/saltytine/sf) and [csnap](https://github.com/saltytine/csnap) fun little tools that i rarely use
 
 ## languages
