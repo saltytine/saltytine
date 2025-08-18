@@ -25,6 +25,10 @@ and random extra stuff, see:
 [BQN](https://github.com/saltytine/BQN) a silly language with a silly syntax, for the sake of programming on alien hardware  
 [sf](https://github.com/saltytine/sf) and [csnap](https://github.com/saltytine/csnap) fun little tools that i rarely use  
 [basic-pitch](https://github.com/spotify/basic-pitch) i also worked on spotify's audio to midi solution  
+  
+and bad vim plugin stuff, see:  
+[todo-by-file](https://github.com/saltytine/todo-by-file) a plugin to save todos per file or per directory, for better organization  
+[marked](https://github.com/saltytine/marked) a plugin to mark a line and jump to it quickly in a file (WIP)  
 
 ## languages
 
