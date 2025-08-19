@@ -29,6 +29,7 @@ and random extra stuff, see:
 and bad vim plugin stuff, see:  
 [todo-by-file](https://github.com/saltytine/todo-by-file) a plugin to save todos per file or per directory, for better organization  
 [marked](https://github.com/saltytine/marked) a plugin to mark a line and jump to it quickly in a file (WIP)  
+[live-reference](https://github.com/saltytine/live-reference) a plugin that tells you the line number of every other instance of the word your cursor is on  
 
 ## languages
 
