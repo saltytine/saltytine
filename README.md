@@ -8,7 +8,7 @@ she/her • [link tree](saltytine.github.io/1/) • working at canonical and mal
 at **canonical** — fixing security and functionality bugs in charmed kubernetes, feast, LXD, etc  
 at **malectrica** — security research, tooling, website development, and also hr  
   
-i have some [notes and guides](https://github.com/saltytine/notes-and-guides) as well as most of my configs scattered about. i have this untested bash script which should load my ubuntu config on a fresh ubuntu install ([ubuntu configs](https://github.com/saltytine/MyUbuntu) and my [vim](https://github.com/saltytine/vim/) config, which is the most important one  
+i have some [notes and guides](https://github.com/saltytine/notes-and-guides) as well as most of my configs scattered about. i have this untested bash script which should load my ubuntu config on a fresh ubuntu install ([ubuntu configs](https://github.com/saltytine/MyUbuntu) and my [vim](https://github.com/saltytine/vim/) config, which is the most important one)  
   
 i also do low level development, see:  
 [tivOS](https://github.com/saltytine/tivOS) my operating system written in C with the goal of having a simple and readable codebase  
